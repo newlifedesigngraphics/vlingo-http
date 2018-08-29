@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Home](index.html)
-* [Initial page](README.md)
+* [Custom introduction name](README.md)
 * [Getting Started](getting-started.md)
 
